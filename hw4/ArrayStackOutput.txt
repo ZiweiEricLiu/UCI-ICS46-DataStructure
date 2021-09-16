@@ -1,0 +1,10 @@
+julia
+ill
+hello
+good
+fog
+egg
+dog
+cat
+boy
+apple
